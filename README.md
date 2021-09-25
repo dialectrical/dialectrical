@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Michael
-- 👀 I’m interested in helping people enjoy the things they care about more
 - 🌱 I’m currently learning front-end development skills
-- 💞️ I’m looking to collaborate on any project in need of front-end work!
 - 📫 How to reach me michael.camele@gmail.com
 
 <!---
