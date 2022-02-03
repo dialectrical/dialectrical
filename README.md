@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Michael
-- 🌱 I’m currently learning front-end development skills
 - 📫 How to reach me michael.camele@gmail.com
 
 <!---
